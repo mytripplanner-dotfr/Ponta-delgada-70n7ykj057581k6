@@ -1,0 +1,125 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "🌸",
+  "titre": "Échappée Relaxante aux Açores : Ponta Delgada et ses Trésors Naturels",
+  "budget_total": "920 €/pers (estimation)",
+  "duree": "4 jours",
+  "temps_vol": "6h00 (depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée Douce à Ponta Delgada",
+      "legende": "Après votre vol, prenez le temps de vous installer et de vous imprégner de l'atmosphère charmante de Ponta Delgada. Une première balade dans le centre historique vous permettra de découvrir l'architecture unique et les ruelles animées de la capitale des Açores, en toute tranquillité.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Ponta Delgada (PDL)</strong>: Récupérez votre voiture de location et rejoignez votre hébergement pour déposer vos affaires.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez un moment pour vous rafraîchir et vous détendre après le voyage.",
+        "<strong>🚶‍♂️ Balade dans le centre historique de Ponta Delgada</strong>: Flânez le long des Portas da Cidade, admirez l'église de São Sebastião et découvrez les jardins et places pittoresques."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "La location de voiture est fortement recommandée pour explorer São Miguel. Réservez à l'avance, surtout en haute saison."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "♨️",
+      "titre": "Immersion Thermale dans la Vallée de Furnas",
+      "legende": "Aujourd'hui, direction l'est de l'île pour une journée dédiée à la relaxation et à la découverte des merveilles géothermiques de Furnas. Entre jardins luxuriants et sources chaudes apaisantes, c'est une véritable parenthèse de bien-être qui vous attend au cœur de la nature açorienne.",
+      "lieu": "Furnas",
+      "activites": [
+        "<strong>🌳 Visite du Parc Terra Nostra</strong>: Explorez ce jardin botanique exceptionnel, réputé pour sa flore exotique et sa piscine thermale riche en fer, idéale pour une baignade relaxante.",
+        "<strong>♨️ Baignade à Poça da Dona Beija</strong>: Profitez de plusieurs bassins d'eau chaude naturelle, chacun à une température différente, pour une expérience thermale des plus agréables.",
+        "<strong>🍲 Dégustation du Cozido das Furnas</strong>: Savourez ce plat traditionnel cuit pendant des heures sous terre grâce à la chaleur volcanique, une expérience culinaire unique."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "♨️",
+          "titre": "Conseil Baignade",
+          "texte": "Les eaux thermales peuvent tacher les maillots de bain clairs. Prévoyez un maillot foncé ou un vieux maillot."
+        },
+        {
+          "symbole": "🚗",
+          "titre": "Trajet",
+          "texte": "Comptez environ 45-60 minutes de route depuis Ponta Delgada pour atteindre Furnas."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Panoramas Époustouflants de Sete Cidades",
+      "legende": "Partez à la découverte de l'ouest de l'île, où des paysages à couper le souffle vous attendent. Les lacs jumeaux de Sete Cidades, avec leurs couleurs contrastées, offrent un spectacle inoubliable. Une journée entre points de vue majestueux et balades douces au cœur d'une nature préservée.",
+      "lieu": "Sete Cidades",
+      "activites": [
+        "<strong>👀 Point de vue Vista do Rei</strong>: Admirez la vue emblématique sur les lacs bleu et vert de Sete Cidades, un panorama à ne pas manquer.",
+        "<strong>🚶‍♀️ Balade autour des lacs de Sete Cidades</strong>: Descendez dans la caldeira pour une promenade paisible le long des rives des lacs, ou explorez le charmant village de Sete Cidades.",
+        "<strong>🌊 Détente aux piscines naturelles de Mosteiros</strong>: Si le temps le permet, profitez des piscines naturelles formées par la roche volcanique, un lieu idéal pour se rafraîchir et admirer le coucher de soleil."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Météo",
+          "texte": "Le temps peut changer rapidement aux Açores. Prévoyez des couches de vêtements et un imperméable, même en été."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Les points de vue offrent des opportunités photographiques incroyables. N'oubliez pas votre appareil photo!"
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🍍",
+      "titre": "Douceurs Locales et Départ",
+      "legende": "Avant de reprendre votre vol, profitez d'une dernière matinée pour découvrir une spécialité locale et faire quelques emplettes. Une visite à une plantation d'ananas vous offrira un aperçu de l'agriculture açorienne, avant de vous diriger vers l'aéroport, la tête pleine de souvenirs.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "<strong>🍍 Visite d'une plantation d'ananas</strong>: Découvrez les serres où sont cultivés les ananas des Açores, une variété unique, et dégustez-en le jus ou la liqueur.",
+        "<strong>🛍️ Derniers achats de souvenirs</strong>: Profitez des boutiques du centre de Ponta Delgada pour ramener des produits locaux (thé, céramique, liqueurs).",
+        "<strong>✈️ Départ de l'aéroport de Ponta Delgada (PDL)</strong>: Restitution de la voiture de location et vol retour vers Paris."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour la restitution de la voiture et les formalités d'embarquement à l'aéroport."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "384 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "~125 €/pers (location voiture 4j + essence, base 2 pers)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "~200 €/pers (4 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "~150 €/pers (3 nuits hôtel 3*, base 2 pers)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "~60 €/pers (entrées parcs, sources chaudes)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Avril à Juin", "symbole": "🌸" },
+    { "titre": "Septembre à Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Le climat des Açores est océanique, avec des changements rapides. Prévoyez des vêtements en couches, un imperméable et de bonnes chaussures de marche.", "symbole": "🌦️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "La location de voiture est essentielle pour explorer l'île de São Miguel. Le permis de conduire français est suffisant. La conduite est à droite.", "symbole": "🚗" },
+    { "titre": "Le portugais est la langue officielle. L'anglais est parlé dans les zones touristiques. Un adaptateur n'est pas nécessaire (prises européennes).", "symbole": "🗣️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-PDL/2025-05-15/2025-05-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Açores", "url": "https://www.visitazores.com/fr", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Rentalcars", "url": "https://www.rentalcars.com/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "IPMA (Météo Portugal)", "url": "https://www.ipma.pt/pt/otempo/prev.local/index.jsp?localID=26&cidadeID=26", "symbole": "🌤️" }
+  ]
+}
